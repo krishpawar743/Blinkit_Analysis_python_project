@@ -32,6 +32,4 @@ This project analyzes **Blinkit sales and delivery data** using Python to uncove
 
 ---
 
-## ▶️ How to Run
 
-1. Clone this repository:
